@@ -1,0 +1,30 @@
+Test object: ballpoint pen with replaceable red refill
+
+By testing levels:
+
+1. Unit testing: 
+- Is the ampoule made hermetically, does the ink not leak from the non-working side of the ampoule, does enough ink flow from the working side of the ampoule;
+- Is the ball of the correct size according to the specification for the ampoule, does it fit into the ampoule;
+- Does the handle case not bend/break. Is it comfortable to hold in your hand?
+- Is the cap for the case manufactures correctly according to the specification.
+
+2. Integration testing
+- Does the ampoule with ball and ink fit in the pen case;
+- Does the ball in the ampoule work, does enough ink come out;
+- Does the cap slide over the pen case or does it stay on the case
+
+3. System testing
+- Does the pen write;
+- Does the ink leak when the pen is not in use;
+- Does the ampoule not move when writing;
+
+4. Acceptance testing:
+- Does the pen size, ink color, case color, and shape match the customer's specifications;
+- Does the pen write thin enough according to specification;
+
+5. Alpha testing:
+- A test to measure how much ink is enough;
+- Are all parts of the case and ampoule working well;
+
+6. Beta testing:
+-Are the other people comfortable using the pen;
